@@ -14,6 +14,10 @@ public class driver {
             int id = input.nextInt();
             double basicSalary = input.nextDouble();
             double extraPaymentRate = input.nextDouble();
+
+
+
+
             System.out.println("Enter number of courses the teacher taught :-");
             Course[] arrayCourse = new Course[input.nextInt()];
             // filling arrayCourse
